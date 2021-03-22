@@ -3,4 +3,4 @@
 
 Reposiório criado durante uma aula sobte Git e Github com Gustavo Guanabara.
 
-Adicionei mais uma linha, diretamente pelo browser!
+Voltando a estudar Git e Github!
